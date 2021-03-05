@@ -1,5 +1,41 @@
-site_name: Mkdocs overview
+site_name: Meine Docs
+site_url: https://southx1337.github.io/
+site_author: sOUTHX
+site_description: You tell me
+copyright: Copyright &copy; 2021 - 2021 sOUTHX
+
+
+
 nav:
   - Home: 'docs/index.md'
   - PrivateBin: 'docs/privatebin.md'
   
+  
+theme:
+  name: null
+  custom_dir: material
+
+  # Static files
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: logo
