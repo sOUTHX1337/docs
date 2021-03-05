@@ -21,4 +21,10 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
+  direction:
+  features: []
+  palette:
+    primary:
+    accent:
+  icon:
     logo: logo
