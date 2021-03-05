@@ -5,6 +5,9 @@ site_description: You tell me
 copyright: Copyright &copy; 2021 - 2021 sOUTHX
 
 
+theme:
+  name: material
+
 
 nav:
   - Home: index.md
