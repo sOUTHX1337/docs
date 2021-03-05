@@ -6,7 +6,7 @@ copyright: Copyright &copy; 2021 - 2021 sOUTHX
 
 
 
-nav:
+pages:
   - Home: 'docs/index.md'
   - PrivateBin: 'docs/privatebin.md'
   
