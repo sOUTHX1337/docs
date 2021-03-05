@@ -1,5 +1,5 @@
 site_name: Mkdocs overview
-pages:
+nav:
   - Home: 'docs/index.md'
   
 theme:
