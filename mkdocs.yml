@@ -1,0 +1,3 @@
+site_name: Mkdocs overview
+pages:
+  - Home: 'README.md'
