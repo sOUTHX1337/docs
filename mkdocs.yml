@@ -15,3 +15,4 @@ nav:
     - ReachMe: services/reach.md
     - Terminfinder: services/terminfinder.md
     - Private Bin: services/privatebin.md
+  - Plex: plex.md
