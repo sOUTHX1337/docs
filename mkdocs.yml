@@ -1,30 +1,5 @@
 site_name: Mkdocs overview
 nav:
   - Home: 'docs/index.md'
+  - PrivateBin: 'docs/privatebin.md'
   
-theme:
-  name: null
-  custom_dir: mkdocs-material/material
-
-  # 404 page
-  static_templates:
-    - 404.html
-
-  # Necessary for search to work properly
-  include_search_page: false
-  search_index_only: true
-
-  # Default values, taken from mkdocs_theme.yml
-  language: de
-  font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-  direction:
-  features: []
-  palette:
-    primary:
-    accent:
-  icon:
-    logo: logo
