@@ -6,9 +6,10 @@ copyright: Copyright &copy; 2021 - 2021 sOUTHX
 
 
 
-pages:
-  - Home: 'docs/index.md'
-  - PrivateBin: 'docs/privatebin.md'
+nav:
+  - Home: index.md
+  - Services:
+    - Private Bin: privatebin.md
   
   
 theme:
