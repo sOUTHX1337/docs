@@ -29,7 +29,8 @@ Hier legst du nun die folgenden vier Einträge ohne Anführungszeichen an:
    - "@" auf "host.laukandt.de" mit der Priorität 10
    - "@" auf "mail.laukandt.de" mit der Priorität 20
 	
-	![Namecheap](docs/webhost/example/images/dns/nc-dns.png)
-	![Cloudflare](docs/webhost/example/images/dns/cf-dns.png)
+**Namecheap:**![Namecheap](https://southx1337.github.io/docs/img/dns/nc-dns.png)
+
+**Cloudflare:**![Cloudflare](https://southx1337.github.io/docs/img/dns/cf-dns.png)
 
 Fortsetzung folgt!
