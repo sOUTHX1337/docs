@@ -30,4 +30,4 @@ Hier legst du nun die folgenden fünf Einträge ohne Anführungszeichen an:
    - "@" auf "host.laukandt.de" mit der Priorität 10
    - "@" auf "mail.laukandt.de" mit der Priorität 20
 	
-	![Namecheap](webhost/example/images/nc-dns.png)
+	![Namecheap](docs/webhost/example/images/nc-dns.png)
