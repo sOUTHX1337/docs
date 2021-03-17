@@ -11,8 +11,10 @@ theme:
 
 nav:
   - Home: index.md
+  - Webhost:
+    - DNS Einstellungen: webhost/dns.md
+    - Folgt: webhost/dns.md
   - Services:
     - ReachMe: services/reach.md
     - Terminfinder: services/terminfinder.md
     - Private Bin: services/privatebin.md
-  - Plex: plex.md

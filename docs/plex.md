@@ -1,1 +1,0 @@
-nimmste client, geht -> https://www.plex.tv/de/media-server-downloads/#plex-app
