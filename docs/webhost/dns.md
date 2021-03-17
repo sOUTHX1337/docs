@@ -20,14 +20,16 @@
 Als aller erstes meldest du dich bei der Website an, bei der du deine Domain gekauft hast und navigierst zu den DNS Einstellungen.
 
 ## Schritt 2:
-Hier legst du nun die folgenden fünf Einträge ohne Anführungszeichen an:
+Hier legst du nun die folgenden vier Einträge ohne Anführungszeichen an:
 
  - Einträge des Typen "A":
    - "@" auf "91.134.179.202"
-   - "*" auf "91.134.179.202"
    - "www" auf "91.134.179.202"
 -Einträge des Typen "MX":
    - "@" auf "host.laukandt.de" mit der Priorität 10
    - "@" auf "mail.laukandt.de" mit der Priorität 20
 	
-	![Namecheap](docs/webhost/example/images/nc-dns.png)
+	![Namecheap](docs/webhost/example/images/dns/nc-dns.png)
+	![Cloudflare](docs/webhost/example/images/dns/cf-dns.png)
+
+Fortsetzung folgt!
