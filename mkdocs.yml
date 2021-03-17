@@ -1,6 +1,6 @@
-site_name: Meine Docs
+site_name: Webhost Dokumentation
 site_url: https://southx1337.github.io/docs/
-site_author: sOUTHX
+site_author: Jonas
 site_description: You tell me
 copyright: Copyright &copy; 2021 - 2021 sOUTHX
 
@@ -13,8 +13,4 @@ nav:
   - Home: index.md
   - Webhost:
     - DNS Einstellungen: webhost/dns.md
-    - Folgt: webhost/dns.md
-  - Services:
-    - ReachMe: services/reach.md
-    - Terminfinder: services/terminfinder.md
-    - Private Bin: services/privatebin.md
+    - Weitere Einstellungen: https://hostinghandbuch.de/
