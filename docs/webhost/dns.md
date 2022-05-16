@@ -27,9 +27,12 @@ Hier legst du nun die folgenden vier Einträge ohne Anführungszeichen an:
  - Einträge des Typen "A":
    - "@" auf "91.134.179.202"
    - "www" auf "91.134.179.202"
--Einträge des Typen "MX":
+ - Einträge des Typen "MX":
    - "@" auf "mx1.go-reach.me" mit der Priorität 10
    - "@" auf "mx2.go-reach.me" mit der Priorität 20
+ - Sonstige Einträge ("ovhdnstest.tk" durch eigene Domain ersetzen!):
+   - _dmarc.ovhdnstest.tk.	1	IN	TXT	"v=DMARC1; p=none; rua=mailto:info@ovhdnstest.tk"
+   - ovhdnstest.tk.	1	IN	TXT	"v=spf1 ip4:54.38.93.51 ip4:91.134.179.202 ip6:2001:41d0:403:1f33:: include:ovhdnstest.tk ~all"
 	
 [nc]: https://namecheap.com
 [ovh]: https://ohv.com
