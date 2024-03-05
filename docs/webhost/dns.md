@@ -26,7 +26,7 @@ Hier legst du nun die folgenden vier Einträge ohne Anführungszeichen an:
 
  - Einträge des Typen "A":
    - "@" auf "148.251.77.206"
-   - "www" auf "91.134.179.202"
+   - "www" auf "148.251.77.206"
  - Einträge des Typen "MX":
    - "@" auf "mx1.go-reach.me" mit der Priorität 10
    - "@" auf "mx2.go-reach.me" mit der Priorität 20
